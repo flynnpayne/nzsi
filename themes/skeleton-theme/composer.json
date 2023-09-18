@@ -1,0 +1,20 @@
+{
+    "name": "silverstripe-themes/skeleton-theme",
+    "description": "Some basic, clean HTML and CSS",
+    "type": "silverstripe-theme",
+    "keywords": ["silverstripe", "theme"],
+    "license": "BSD-3-Clause",
+    "author": "Christopher Bartlett",
+    "version": "23 April 2023",
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=4.12"
+    },
+    "extra": {
+        "expose": [
+            "css",
+            "images",
+            "javascript"
+        ]
+    }
+}
