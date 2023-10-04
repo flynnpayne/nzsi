@@ -1,5 +1,7 @@
 # New Zealand Stringed Instruments
 
+![Screenshot of the website](site.png)
+
 [View Live](https://nzsi.flynnp4yne.com/)
 
 Description on its way....
