@@ -4,7 +4,9 @@
 
 [View Live](https://nzsi.flynnp4yne.com/)
 
-Description on its way....
+I created the New Zealand Stringed Instruments website as an assignment at Ara Institute of Canterbury. My task was to merge the online presence of three separate instrument-making businesses into one streamlined website. To achieve this, I did an extensive content audit of the three existing websites. This audit helped the clients and me to gain a clear understanding of what content would stay on the new website.
+
+Next, I developed prototypes and wireframes to visualize the website's structure and design. For the actual website development, I used Silverstripe CMS. This choice was deliberate, as it would let the clients easily manage and update the website's content without requiring extensive technical knowledge. They aren't very technology savvy. Because of this, I added additional functionality that made editing and adding content simpler. This extra functionality ensured the clients had a user-friendly experience when updating or adding new content to their site.
 
 ## Grades
 This project was split over three classes. The grades I got are:
